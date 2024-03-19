@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfe27e85-601f-45c3-9585-994bfaf9c1aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/small-spring-model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/BeansException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/config/SingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultListTableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/test/java/SpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-02/src/test/java/beans/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/BaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/config/SingletonBeanRegietry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/BeanDefinitionRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/CglibStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultListTableBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultSingletonBeanRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/main/java/com/ldyg/springframework/beans/factory/support/JdkStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/test/java/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-03/src/test/java/bean/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/BeansException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/PropertyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/config/BeanReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/config/SingletonBeanRegietry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/test/java/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/test/java/bean/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-04/src/test/java/bean/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/BeansException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/PropertyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/PropertyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/config/BeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/config/BeanReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/config/SingletonBeanRegietry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/BeanDefinitionRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/CglibSubclassingInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/InstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/main/java/com/ldyg/springframework/beans/factory/support/SimpleInstantiationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/test/java/ApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/test/java/bean/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-step-05/src/test/java/bean/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dcYr1yMUZLvRQuSRdUDsaOex1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/workspace/small-spring-model/small-spring-model/spring-step-04/src/main/java/com/ldyg/springframework/beans&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/workspace/small-spring-model/small-spring-model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\small-spring-model\small-spring-model" />
+      <recent name="E:\workspace\small-spring-model\small-spring-model\spring-step-04\src\test\java\bean" />
+      <recent name="E:\workspace\small-spring-model\small-spring-model\spring-step-03\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApiTest.test_BeanFactory (1)">
+    <configuration name="ApiTest.test_BeanFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-step-04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiTest.test_BeanFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-step-03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApiTest" />
+      <option name="METHOD_NAME" value="test_BeanFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.apiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-step-02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpringTest" />
+      <option name="METHOD_NAME" value="apiTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory (1)" />
+        <item itemvalue="JUnit.ApiTest.test_BeanFactory" />
+        <item itemvalue="JUnit.SpringTest.apiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe27e85-601f-45c3-9585-994bfaf9c1aa" name="Changes" comment="" />
+      <created>1710309031083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710309031083</updated>
+      <workItem from="1710309032099" duration="2960000" />
+      <workItem from="1710320040019" duration="2752000" />
+      <workItem from="1710377879662" duration="11428000" />
+      <workItem from="1710467918507" duration="13212000" />
+      <workItem from="1710833408707" duration="1236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractBeanFactory.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-02/src/main/java/com/ldyg/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-04/src/main/java/com/ldyg/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-04/src/test/java/ApiTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-step-04/src/test/java/bean/UserService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
